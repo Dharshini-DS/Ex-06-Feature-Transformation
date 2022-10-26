@@ -63,7 +63,6 @@ plt.show()
 
 ![](im1.PNG)
 ![](im2.PNG)
-
 ![](im3.PNG)
 
 ![](im4.PNG)
@@ -81,6 +80,17 @@ plt.show()
 ![](im10.PNG)
 
 ![](im11.PNG)
+=======
+![](im3.PNG)
+![](im4.png)
+![](im5.png)
+![](im6.png)
+![](im7.png)
+![](im8.png)
+![](im8.png)
+![](im10.png)
+![](im11.png)
+>>>>>>> cd5195a95b083beaf711035f325529d17923929c
 
 ## RESULT:
 Thus the Feature Transformation for the given datasets had been executed successfully
