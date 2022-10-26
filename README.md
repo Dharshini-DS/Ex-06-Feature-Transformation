@@ -62,8 +62,8 @@ plt.show()
 ## OUTPUT:
 
 ![](im1.PNG)
-![](im2.png)
-![](im3.png)
+![](im2.PNG)
+![](im3.PNG)
 ![](im4.png)
 ![](im5.png)
 ![](im6.png)
